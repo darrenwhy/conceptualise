@@ -1,0 +1,16 @@
+{
+  "name": "conceptualise",
+  "version": "1.0.0",
+  "description": "text editor, something out of nothing.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  }
+}

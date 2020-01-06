@@ -1,0 +1,41 @@
+body {
+    background-color: #1E1E1E;
+}
+
+h1 {
+    color: #FFFF;
+    font-family: 'Public Sans', sans-serif;
+}
+
+h2 {
+    color: #FFFF;
+    font-family: 'Public Sans', sans-serif;
+}
+
+a {
+    color: #FFFF;
+    font-family: 'Public Sans', sans-serif;
+}
+
+p {
+    color: #FFFF;
+    font-family: 'Public Sans', sans-serif;
+}
+
+.container {
+    background-color: #1E1E1E;
+}
+
+.header {
+    background-color: #1E1E1E;
+}
+
+.notes {
+    border: 2px solid white;
+    color: #FFFF;
+    margin: auto;  
+    padding: 20px;
+    text-align: left;
+    width: 900px;
+    height: 400px;
+}
